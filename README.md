@@ -36,7 +36,7 @@
 
 ## Example of work
     
-    $python weather.py
+    $ python weather.py
     
     Санкт-Петербург, Россия
 
