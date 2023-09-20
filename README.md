@@ -7,7 +7,8 @@
  - Python
 
 ## How to use
- 1. Clone this repository and go to the project folder:
+ 
+1. Clone this repository and go to the project folder:
    ```bash
    cd /c/project_folder # for example
 
