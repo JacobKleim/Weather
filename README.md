@@ -35,7 +35,9 @@
    ```
 
 ## Example of work
-
+    
+    $python weather.py
+    
     Санкт-Петербург, Россия
 
             \   /     Ясно
