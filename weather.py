@@ -6,7 +6,7 @@ params = {'T': '', 'n': '', 'M': '', '2': '', 'lang': 'ru'}
 
 
 def get_weather(city):
-    url_template = ('https://wttr.in/{}')
+    url_template = 'https://wttr.in/{}'
     url = url_template.format(city)
     response = requests.get(url, params=params)
     response.raise_for_status()
